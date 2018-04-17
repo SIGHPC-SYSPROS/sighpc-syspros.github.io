@@ -7,7 +7,7 @@ The ACM SIGHPC Systems Professionals Virtual Chapter Website
 
 ## Chapter Leadership
 
-## Chapter Bylaws
+## [Chapter Bylaws](https://github.com/SIGHPC-SYSPROS/OrganizationalDocs/blob/master/SIGHPCSystemsBylaws.md)
 
 ## Upcoming Activities
 
