@@ -1,7 +1,7 @@
 # ACM SIGHPC Systems Professionals Virtual Chapter Website
 The ACM SIGHPC Systems Professionals Virtual Chapter Website
 
-## HPCSYSPROS17 Workshop
+## [HPCSYSPROS17 Workshop](http://hpcsyspros.org/)
 
 ## Membership information
 
