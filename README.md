@@ -1,7 +1,7 @@
 # ACM SIGHPC Systems Professionals Virtual Chapter Website
 The ACM SIGHPC Systems Professionals Virtual Chapter Website
 
-## [About Us](AboutUS.md)
+## [About Us](AboutUs.md)
 
 ## [Membership information](Membership.md)
 
