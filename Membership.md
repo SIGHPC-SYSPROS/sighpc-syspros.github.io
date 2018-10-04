@@ -1,6 +1,6 @@
 # Membership Information
 
-Membership dues are $5 a year. Watch this space for a Quick Join page. In the meantime, you can send an email to hpcsyspros-officers@listserv.acm.org and we'll get you signed up.
+Membership dues are $5 a year. Go to [ACM SIGHPC SYSPROS](https://campus2.acm.org/public/qj/chapqj/chapqj_control.cfm?chap=159102) to join!
 
 By joining our chapter, you receive the following benefits:
 
