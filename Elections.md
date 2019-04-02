@@ -5,4 +5,4 @@ Current Officers are listed [here](SIGHPCSystemsOfficers.md)
 
 ## Past election slates
 
-[2018 Elections](2018Canidates.md)
+[2018 Elections](2018Candidates.md)
