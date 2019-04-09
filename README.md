@@ -11,4 +11,6 @@ The ACM SIGHPC Systems Professionals Virtual Chapter Website
 
 ## [Upcoming Activities](UpcomingActivities.md)
 
+## [Past Activities](PastActivities.md)
+
 ## [Elections](Elections.md)
