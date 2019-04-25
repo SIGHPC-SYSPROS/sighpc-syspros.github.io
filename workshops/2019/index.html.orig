@@ -1,6 +1,6 @@
 <!doctype html>
 <html class="no-js" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>HPCSYSPROS19</title>
-<link rel="shortcut icon" href="images/SIGHPC.ico" type="image/x-icon" /> 
+<link rel="shortcut icon" href="images/SIGHPC-logo.ico" type="image/x-icon" /> 
 <link rel="stylesheet" href="css/app.css" /> 
 <style>
           body {
@@ -66,13 +66,9 @@
               font-variant: small-caps;
            }
            img {
-              width: 20%;
+              width: 100%;
               height: auto;
               overflow: hidden;
-              position: relative;
-              display: block;
-              margin-left: auto;
-              margin-right: auto }
            }
            table,td,th {
              background-color: #CCCCCC;
@@ -111,16 +107,21 @@
 <div class="row fullwidth">
 <div class="grid-frame">
 <div class="large-12 medium-12 small-12 column">
-<center><h2>SIGHPC Systems Professionals Workshop</h2></center>
+<center><h2><!-- Second -->HPC Systems Professionals Workshop</h2></center>
 <center><h2>HPCSYSPROS19</h2></center>
-<center><h2>November 17-22, 2019</h2></center>
-<center><h2>Denver, CO</h2></center>
+<center><h2>November 17-22, 2019, Denver, CO</h2></center>
 </div>
-<center><h2>Held in conjunction with</h2></center>
-<div class="img"><a href="http://sc19.supercomputing.org"><img src="images/SC19-logo.png" height="129" width="256" alt="SC19 Logo"></a></div>
-<center><h2>and in cooperation with</h2></center>
-<div class="img"><a href="http://sighpc.org"><img src="images/SIGHPC-logo.png" height="129" width="256" alt="SIGHPC Logo"></a></div>
-
+<div class="large-4 medium-4 small-4 column">&nbsp;</div>
+<div class="large-3 medium-3 small-3 column"><a href="http://sc19.supercomputing.org"><img src="images/SC19-logo.png" height="129" width="256" alt="SC19 Logo" align="left"></a><a href="http://sighpc.org"><img src="images/SIGHPC-logo.png" height="129" alt="SIGHPC Logo" align="right"></a></div>
+<div class="large-2 medium-2 small-2 column">&nbsp;</div>
+<div class="large-4 medium-4 small-4 column">&nbsp;</div>
+<div class="large-12 medium-12 small-12 column">
+<center><h2>Held in conjunction with <a href="http://sc19.supercomputing.org">SC19</a></h2></center>
+<center><h3>The International Conference for High Performance Computing, Networking, Storage and Analysis</h3></center><p>
+<div class="large-4 medium-4 small-4 column">&nbsp;</div>
+</div>
+</div>
+</div>
 <div id="mainBody" class="scusa">
 <p>
 
@@ -257,7 +258,7 @@ August 23, 2019<br>NO EXTENSIONS</td></tr>
 <a name="contact"></a>
 <h4>&nbsp;Contact Information</h4>
 <p>
-If you need to contact us, send email to <a href="mailto:contact@sighpc-syspros.org">SIGHPC SYSPROS</a>.
+Please send email to <a href="mailto:contact@sighpc-syspros.org">SIGHPC SYSPROS</a>.
 
 <a name="links"></a>
 <h4>&nbsp;Links</h4>
