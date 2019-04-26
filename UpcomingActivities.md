@@ -1,8 +1,8 @@
 # Upcoming Activities
 
 ------
-## HPCSYSPROS19 
-Held in conjuction with [SC19](https://sc19.supercomputing.org)
+## [[HPCSYSPROS19 Workshop]](http://sighpc-syspros.org/workshops/2019/) 
+Held in conjunction with [[SC19]](http://sc19.supercomputing.org)
 
 ------
 ## HPCSYSPROS Symposium19
