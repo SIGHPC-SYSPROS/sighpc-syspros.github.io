@@ -11,3 +11,6 @@ Specific objectives include:
 * Organizing events for exchanging information about cutting edge computer technologies and trends facing HPC systems professionals.
 * Promoting of best practices and standards for systems administration, engineering, tools development, documentation, and training.
 * Collecting and disseminating best practices for cybersecurity and data protection within HPC systems.
+
+## [Contact Us](contact@sighpc-syspros.org)
+## [Join our Slack](/slack)
