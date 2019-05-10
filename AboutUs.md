@@ -12,5 +12,5 @@ Specific objectives include:
 * Promoting of best practices and standards for systems administration, engineering, tools development, documentation, and training.
 * Collecting and disseminating best practices for cybersecurity and data protection within HPC systems.
 
-## [Contact Us](contact@sighpc-syspros.org)
-## [Join our Slack](/slack)
+## [Contact Us](<contact@sighpc-syspros.org>)
+## [Join our Slack](slack)
