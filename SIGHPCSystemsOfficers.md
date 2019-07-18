@@ -6,4 +6,4 @@
 ### Secretary - Stephen Lien Harrell (Purdue University)
 ### Membership Chair - William Scullin (Argonne National Lab)
 ### Member-at-large - John Blaas (University of Colorado)
-### Member-at-large - Stephen Fralich
+### Member-at-large - Stephen Fralich (Boeing)
