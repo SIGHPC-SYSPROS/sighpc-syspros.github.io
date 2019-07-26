@@ -1,8 +1,7 @@
 # ACM SIGHPC Systems Professionals Virtual Chapter Website
-The ACM SIGHPC Systems Professionals Virtual Chapter Website
 
 We are a SIGHPC ACM Chapter focused on the systems staff who stand up high performance systems. This includes system admins, storage admins, networking admins, 
-facilities staff - everyone who participates in the process of standing up HPC physical systems. We are a community focused on sharing solutions and failures associated with these complicated, novel, cutting-edge systems.
+facilities staff - everyone who participates in the process of physically standing up HPC systems. Our community is focused on sharing solutions and failures associated with these complicated, novel, cutting-edge systems.
 
 ## [About Us](AboutUs.md)
 
