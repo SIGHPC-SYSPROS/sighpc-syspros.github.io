@@ -1,8 +1,14 @@
 # Past Activities
 
 ------
+## [[HPCSYSPROS19 Workshop]](http://sighpc-syspros.org/workshops/2019/) 
+Held in conjunction with [[SC19]](http://sc19.supercomputing.org)
+### [Archived Proceedings](http://sighpc-syspros.org/proceedings/Workshop19)
+
+------
 ## [[HPCSYSPROS Symposium19]](http://sighpc-syspros.org/symposiums/2019/)
 Held in conjunction with [[PEARC19]](https://www.pearc19.pearc.org)
+### [Archived Proceedings](http://sighpc-syspros.org/proceedings/Symposium19)
 
 ------
 ## [[HPCSYSPROS18 Workshop]](http://sighpc-syspros.org/workshops/2018/) 
