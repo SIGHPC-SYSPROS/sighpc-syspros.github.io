@@ -14,7 +14,9 @@ David Clifton is the Technical Lead for High Performance Computing in the IT gro
 
 ## Secretary
 
-### None Currently
+### Stephen Fralich
+
+Ever since I learned of supercomputing systems while in high school, I was fascinated by both the technical aspects of them as well as the research that they enable. I’ve been working with Linux HPC systems since the early 2000s and with UNIX/Linux systems since I was in high school. I’m currently an HPC Systems Engineer at Boeing. Prior to Boeing, I lead the technical side of University of Washington’s central HPC effort for almost ten years and worked as an HPC Systems Administrator at the University of Chicago. I served as Member at Large for the first two years of the chapter’s life. I also served on the SC19 workshop organizing and submission review committees. If you’d like more detail, you can find me on LinkedIn: <https://www.linkedin.com/in/stephenfralich/>
 
 ## Membership Chair
 
