@@ -10,7 +10,14 @@ David Clifton is the Technical Lead for High Performance Computing in the IT gro
 
 ## Treasurer
 
-### None Currently
+### Jenett Tillotson
+
+I would like to be considered for Treasurer of the SIGHPC SYSPROS ACM Chapter. I have been an HPC System Administrator for 17 years, have been active in both IBMXXL and the CUG in the past, and currently serve as a Senior Cluster System Administrator at NCAR. I have been active in HPCSYSPROS since the days when we just had a BoF at SC, and recently I have served as the Membership Chair and the President of this Chapter. As for my involvement in the rest of the HPCSYSPROS community, I have helped organize the past HPCSYSPROS Workshop serving as the Program Chair for our inaugural workshop.
+
+The Treasurer position for the next two years will be a pivotal role for SIGHPC SYSPROS. The ACM has not yet determined how we are to be managed as a Virtual Chapter. We have been working on this issue for the past two years which has culminated with SIGHPC SYSPROS creating a non-profit entity in order to be able to operate financially. This will require us to file for 501c(3) tax status with the federal government some time in the next two years. I have past experience with this process, and I have successfully led Bloominglabs, a makerspace in Bloomington, Indiana, to gain 501c(3) status.
+
+I look forward to continuing working with SIGHPC SYSPROS and I appreciate your consideration for this position.
+
 
 ## Secretary
 
