@@ -1,6 +1,10 @@
 ## Chair
 
-### None Currently
+### Adam Hough
+
+I would like to considered for President of the SIGHPC SYSPROS ACM Chapter. I am the current treasurer and have been a HPC system professional for 15 years at various organizations with my current position with with Shell's HPC & TI organization in the team with role in designing, procuring, and deploying HPC resources around the world.  I have been active in the HPC SysPros since the SC12 BoF session.
+
+There is a continuing need for additional for face to face meetings and knowledge sharing with the focus on helping grow the knowledge sharing of this profession across all organizations.  I hope to try and start an additional meeting at ISC as a goal to continue to grow the organization while I am currently based in the Netherlands.
 
 ## Vice Chair
 
