@@ -13,4 +13,3 @@ Specific objectives include:
 * Collecting and disseminating best practices for cybersecurity and data protection within HPC systems.
 
 ## [Contact Us](mailto:contact@sighpc-syspros.org)
-## [Join our Slack](slack)
