@@ -1,3 +1,5 @@
+# Election Slate 2020
+
 ## Chair
 
 ### Adam Hough
