@@ -5,6 +5,8 @@ facilities staff - everyone who participates in the process of physically standi
 
 ## [About Us](AboutUs.md)
 
+## [Get Involved](GetInvolved.md)
+
 ## [Upcoming Activities](UpcomingActivities.md)
 
 ## [Past Activities](PastActivities.md)
