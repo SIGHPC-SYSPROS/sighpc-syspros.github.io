@@ -31,7 +31,13 @@ Ever since I learned of supercomputing systems while in high school, I was fasci
 
 ## Membership Chair
 
-### None Currently
+### Jeffrey Raymond
+
+Hello my name is Jeffrey A. Raymond and I would be honored for the opportunity to serve you and the community and be utilized in growing the membership and diversity of the SigHPC - Syspros group.  I have been an HPC system Engineer at the University of Pittsburgh supporting the infrastructure (Compute Clusters, Storage and IB\Omni Path fabrics) for ten years.  Prior to that I was one of the primary Linux Systems Administrators for Enterprise systems. I am the team lead for HPC Engineers at the main University Data Center where we work together with faculty, staff, students and industry to architect, design, deploy and support systems to solve grand challenges, HPC, big data and all types of problems.  I love and am very passionate about this work and the greater good we work to achieve.
+
+My First SC conference was SC11 and at SC12 I attended the inaugural Syspros BOF.  My second SC and each one since I have mentored students thru the Mentor-Protege program.  I have also been on the Syspros committee for the past several years doing peer reviews of presentation content for the SysPros workshops.
+
+At The University of Pittsburgh I have served on CIO commissioned working groups and committees that include Staff Development,  Research Data Management and Senate Computing Usage.  I am currently a member of the Committee for Inclusion and Diversity and serving as Chair of Remote Engagement - Subcommittee.  Please consider my experience and background to help grow our SysPros membership.
 
 ## Member(s) At Large (Choose Two)
 
