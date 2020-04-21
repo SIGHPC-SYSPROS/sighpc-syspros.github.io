@@ -41,6 +41,11 @@ My First SC conference was SC11 and at SC12 I attended the inaugural Syspros BOF
 
 At The University of Pittsburgh I have served on CIO commissioned working groups and committees that include Staff Development,  Research Data Management and Senate Computing Usage.  I am currently a member of the Committee for Inclusion and Diversity and serving as Chair of Remote Engagement - Subcommittee.  Please consider my experience and background to help grow our SysPros membership.
 
+# William Scullin
+I am the HPC Group Lead at the University of Rochester's Laboratory for Laser Energetics. With 17 years of career experience in HPC Systems Administration, he has been a long-time contributor to this community. William was the first Chair of the of SIGHPC SYSPROS, held the office of Membership Chair since 2018, and the organizer and co-organizer of SC BoFs and workshops on systems management stretching back to 2010.
+
+As Membership Chair, I will work to continue the chapter's growth, boost outreach outside the United States, and improve our visibility within SIGHPC and the ACM. As with other groups, I remain dedicated to improving diversity and fostering inclusion efforts in our community. I look forward to continuing my service to our community.
+
 ## Member(s) At Large (Choose Two)
 
 ### John Legato
