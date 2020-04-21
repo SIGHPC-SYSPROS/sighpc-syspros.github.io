@@ -50,3 +50,15 @@ My service on NHLBI and NIH committees has given me experience in bridging the g
 ### Chuck Scwarz
 
 My name is Chuck Schwarz and I would like to be considered for the Member-At-Large position for SIGHPC SYSPROS.  I've been working In HPC at Purdue University since 2014.  During my time here, I've witnessed firsthand the challenges presented by the complexities of HPC environments, and have seen the benefits of systems professionals sharing their knowledge and experiences to overcome the challenges presented by these environments.  It is my hope that as Member-At-Large, we can continue to grow the SIGHPC SYSPROS organization into a thriving, diverse community.
+
+### Prentice Bisbal
+
+Prentice Bisbal has been an HPC Systems Professional for almost 20 years. He first became interested in HPC when learning about mathematical modelling while earning his BS in Chemical Engineering from Rutgers University. After a brief stint as a Process Controls Engineer, Prentice took the leap and switched careers from Engineering to System Administration when he became a Unix Software Engineer (system administrator, really) and the Princeton Plasma Physics Laboratory (PPPL), a US Department of Energy national laboratory in September of 1998.
+
+Since then, Prentice has worked for several different employers in public and private academic research and the oil & gas, and pharmaceuticals industries. He has come full circle and is now woking at PPPL again.
+
+He has experience with every aspect of HPC system administration: racking servers, diagnosing hardware issues, installing and configuring the operating system, compiling and installing numerous open-source and commercial computational packages, providing support and instruction to end-users, writing documentation, maintaining datacenters, designing clusters, working with architecture and engineering firms on the design of modular data centers, and writing RFPs and managing the RFP process for large purchases for the aforementioned clusters and modular data centers.
+
+Prentice also has experience with multiple Unix variants, and a large variety of different hardware. He has worked with SunOS, Solaris, Digital Unix/Tru64, Irix, AIX, and, of course, Linux (mostly RHEL and its derivatives). He has worked with wide range of hardware including old Sun SPARCStations, large Sun Enterprise Servers, SGI O2 and Octane workstations, multi-processor SGI Origin NUMA systems (they were a big deal at the time!), an IBM Blue Gene /P, and all sorts of x86 systems.
+
+Prentice is also a fixture in the HPC community, subscribing and regularly contributing to a variety of HPC-related mailing lists over the years, and attending the SC conferences and any other HPC workshops and conferences he can convince his employer to send him to. He participates local professional system admin groups such as LOPSA's NJ and NYC chapters, the NYC Linux Users Group, and Unigroup of NYC.  Prentice has also been involved with HPCSysPros from early on. He was on the organizing committee of the first HPCSysPros workshop at SC16.
