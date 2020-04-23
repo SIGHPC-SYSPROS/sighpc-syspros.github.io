@@ -1,4 +1,12 @@
-## SIGHPC SYSPROS Officers 2018-2020
+# Current and Past SIGHPC SYSPROS Officers
+
+## [Duties of Officers](https://github.com/SIGHPC-SYSPROS/OrganizationalDocs/blob/master/SIGHPCSystemsBylaws.md#article-v-duties-of-officers)
+
+## 2020-2022
+### [Current Election](2020Candidates.md)
+
+----
+## 2018-2020
 
 ### Chair - Jenett Tillotson (NCAR)
 ### Vice Chair - David Clifton (Ansys)
@@ -8,6 +16,13 @@
 ### Member-at-large - John Blaas (University of Colorado)
 ### Member-at-large - Stephen Fralich (Boeing)
 
------
+----
+## 2016-2018
 
-## [Duties of Officers](https://github.com/SIGHPC-SYSPROS/OrganizationalDocs/blob/master/SIGHPCSystemsBylaws.md#article-v-duties-of-officers)
+### Chair - William Scullin (Argonne Leadership Computing Facility)
+### Vice Chair -  Randy Herban (Microsoft)
+### Treasurer - Randy N Schauer (Raytheon)
+### Secretary - Isaac Traxler (Louisiana State University)
+### Membership Chair - Jenett Tillotson (Indiana University)
+### Member-at-large - David Clifton (Ansys)
+### Member-at-Large - Hon Wai Leong (IBM Singapore)
