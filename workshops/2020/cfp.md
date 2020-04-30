@@ -4,9 +4,9 @@ HPC Systems Professionals Workshop - HPCSYSPROS20 Held in conjunction
 with SC20: The International Conference on High Performance Computing,
 Networking, Storage, and Analysis.
 
-Workshop Website: http://sighpc-syspros.org/workshops/2020
-Submission Website: https://tinyurl.com/HPCSYSPROS20
-Contact: contact@hpcsyspros.org
+Workshop Website: http://sighpc-syspros.org/workshops/2020  
+Submission Website: https://tinyurl.com/HPCSYSPROS20  
+Contact: contact@hpcsyspros.org  
 
 Supercomputing systems present complex challenges to personnel who
 design, deploy and maintain these systems. Standing up these systems
@@ -102,8 +102,8 @@ Notifications of Accepted Artifacts - October 2nd
 
 ## Committee
 
-Workshop Chair: Matt Bidwell
-Program Chair: Gary Jackson
+Workshop Chair: Matt Bidwell  
+Program Chair: Gary Jackson  
 
 Committee Members:
 
