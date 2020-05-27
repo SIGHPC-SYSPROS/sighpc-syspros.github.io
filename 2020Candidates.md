@@ -54,7 +54,7 @@ My name is John Legato and I'd like to be considered for the position Member-At-
 
 My service on NHLBI and NIH committees has given me experience in bridging the gap between the needs of researchers and design and operation of HPC systems to meet those needs. Through my role supporting users, I've seen the gaps in HPC training and demand for technical expertise and I welcome the opportunity to serve the chapter and the community.
 
-### Chuck Scwarz
+### Chuck Schwarz
 
 My name is Chuck Schwarz and I would like to be considered for the Member-At-Large position for SIGHPC SYSPROS.  I've been working In HPC at Purdue University since 2014.  During my time here, I've witnessed firsthand the challenges presented by the complexities of HPC environments, and have seen the benefits of systems professionals sharing their knowledge and experiences to overcome the challenges presented by these environments.  It is my hope that as Member-At-Large, we can continue to grow the SIGHPC SYSPROS organization into a thriving, diverse community.
 

@@ -2,13 +2,21 @@
 
 ## [Duties of Officers](https://github.com/SIGHPC-SYSPROS/OrganizationalDocs/blob/master/SIGHPCSystemsBylaws.md#article-v-duties-of-officers)
 
+----
 ## 2020-2022
-### [Current Election](2020Candidates.md)
+
+### Chair - Adam Hough (University of Washington)
+### Vice Chair - David Clifton (Ansys)
+### Treasurer - Jenett Tillotson (National Center for Atmospheric Research)
+### Secretary - Stephen Fralich (Boeing)
+### Membership Chair - Jeffery Raymond (University of Pittsburgh)
+### Member-at-large - Prentice Bisbal (Princeton Plasma Physics Laboratory)
+### Member-at-large - John Legato (National Heart Lung and Blood Institute)
 
 ----
 ## 2018-2020
 
-### Chair - Jenett Tillotson (NCAR)
+### Chair - Jenett Tillotson (National Center for Atmospheric Research)
 ### Vice Chair - David Clifton (Ansys)
 ### Treasurer - Adam Hough (University of Washington)
 ### Secretary - Stephen Lien Harrell (Texas Advanced Computing Center)
