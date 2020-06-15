@@ -5,7 +5,7 @@
 ----
 ## 2020-2022
 
-### Chair - Adam Hough (University of Washington)
+### Chair - Adam Hough (Shell)
 ### Vice Chair - David Clifton (Ansys)
 ### Treasurer - Jenett Tillotson (National Center for Atmospheric Research)
 ### Secretary - Stephen Fralich (Boeing)
