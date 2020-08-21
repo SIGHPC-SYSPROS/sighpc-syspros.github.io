@@ -94,10 +94,9 @@ posterity.
 
 ## Important Dates
 
-Submissions open - April 29th  
-Submissions closed - August 21st  
-Reviews Sent and Resubmission Open - September 6th  
-Resubmission Closed - September 18th  
+Submissions Open - April 29th  
+Submissions Closed - September 6th
+Submissions Closed - September 18th  
 Notifications of Accepted Artifacts - October 2nd  
 
 ## Committee
