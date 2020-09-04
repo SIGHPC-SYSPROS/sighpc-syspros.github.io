@@ -95,7 +95,7 @@ posterity.
 ## Important Dates
 
 Submissions Open - April 29th  
-Submissions Closed - September 6th
+Submissions Closed - September 9th
 Submissions Closed - September 18th  
 Notifications of Accepted Artifacts - October 2nd  
 
