@@ -2,8 +2,8 @@
 
 ------
 
-## [[HPCSYSPROS Workshop20]](http://sighpc-syspros.org/workshops/2020/)
-Held in conjunction with [[SC20]](https://sc20.supercomputing.org/)
+## [[HPCSYSPROS Workshop21]](http://sighpc-syspros.org/workshops/2021/)
+Held in conjunction with [[SC21]](https://sc21.supercomputing.org/)
 
 ------
 
