@@ -1,6 +1,6 @@
 # Membership Information
 
-Membership dues are $5 a year. Go to [ACM SIGHPC SYSPROS](https://campus2.acm.org/public/qj/chapqj/chapqj_control.cfm?chap=159102) to join!
+Membership dues are $5 a year. Go to [ACM SIGHPC SYSPROS](https://services.acm.org/public/qj/chapqj/chapqj_control.cfm?chap=159102) to join!
 
 By joining our chapter, you receive the following benefits:
 
