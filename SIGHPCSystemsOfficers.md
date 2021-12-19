@@ -8,7 +8,7 @@
 ### Chair - Adam Hough (Shell)
 ### Vice Chair - David Clifton (Ansys)
 ### Treasurer - Jenett Tillotson (National Center for Atmospheric Research)
-### Secretary - Stephen Fralich (Boeing)
+### Secretary - Stephen Fralich (Tesla)
 ### Membership Chair - Jeffery Raymond (University of Pittsburgh)
 ### Member-at-large - Prentice Bisbal (Princeton Plasma Physics Laboratory)
 ### Member-at-large - John Legato (National Heart Lung and Blood Institute)
