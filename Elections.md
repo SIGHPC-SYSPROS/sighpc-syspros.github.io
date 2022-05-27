@@ -3,7 +3,7 @@ ACM SIGHPC SYSPROS Virtual Chapter is beginning its bi-annual election cycle. We
 
 If you are interested, please send Stephen Fralich a statement of your candidacy by June 14, 2022. No late statements will be accepted.
 
-[Officer Duty Descriptions](OrganizationalDocs/SIGHPCSystemsBylaws.md)
+[Officer Duty Descriptions](https://github.com/SIGHPC-SYSPROS/OrganizationalDocs/blob/master/SIGHPCSystemsBylaws.md#article-v-duties-of-officers)
 
 [Examples of Candidacy Statements](2020Candidates.md)
 
@@ -16,7 +16,7 @@ Joining the ACM, SIGHPC and the SYSPROS chapter is possible at these links:
 
 The leadership team's current focuses are on [annual workshops](UpcomingActivities.md). Proceedings of [past workshops and symposiums](PastActivities.md).
 
-These elections are governed by the [chapter bylaws](https://github.com/SIGHPC-SYSPROS/OrganizationalDocs/blob/master/SIGHPCSystemsBylaws.md#article-v-duties-of-officers).
+These elections are governed by the [chapter bylaws](https://github.com/SIGHPC-SYSPROS/OrganizationalDocs/blob/master/SIGHPCSystemsBylaws.md#article-xi-amendment-and-election-procedures).
 
 [Current Officers](SIGHPCSystemsOfficers.md)
 
