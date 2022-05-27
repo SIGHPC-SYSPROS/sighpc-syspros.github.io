@@ -23,9 +23,9 @@ http://sighpc-syspros.org/PastActivities.html
 These elections are governed by the chapter bylaws which can be found here:
 https://github.com/SIGHPC-SYSPROS/OrganizationalDocs/blob/master/SIGHPCSystemsBylaws.md#article-v-duties-of-officers
 
-Joining the ACM, SIGHPC and the SYSPROS chapter is possible at these links:
-https://www.acm.org/membership/join
-https://www.sighpc.org/about/member-benefits
+Joining the ACM, SIGHPC and the SYSPROS chapter is possible at these links: 
+https://www.acm.org/membership/join 
+https://www.sighpc.org/about/member-benefits 
 http://sighpc-syspros.org/join
 
 ---
