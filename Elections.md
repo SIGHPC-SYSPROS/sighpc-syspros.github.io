@@ -1,5 +1,5 @@
 ## Elections
-ACM SIGHPC SYSPROS Virtual Chapter is beginning its bi-annual election cycle. We invite you to submit your candidacy for any position. All officer roles are open for voting during this election. Please note that you must be a voting member of the ACM, SIGHPC and the SYSPROS chapter to submit your candidacy. Information on joining all three organizations is below.
+ACM SIGHPC SYSPROS Virtual Chapter is beginning its biennial election cycle. We invite you to submit your candidacy for any position. All officer roles are open for voting during this election. Please note that you must be a voting member of the ACM, SIGHPC and the SYSPROS chapter to submit your candidacy. Information on joining all three organizations is below.
 
 If you are interested, please send Stephen Fralich a statement of your candidacy by June 14, 2022. No late statements will be accepted.
 
