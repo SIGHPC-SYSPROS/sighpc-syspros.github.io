@@ -8,4 +8,3 @@ By joining our chapter, you receive the following benefits:
 * Networking and sharing of best-practices and strategies for HPC Systems Professionals.
 * Participating on reviews of HPC Systems Professionals relevant materials.
 * Access to mentorship opportunities as it relates to designing, deploying, and maintaining HPC systems.
-* Dues primarily go to funding our Slack channel for the year.
