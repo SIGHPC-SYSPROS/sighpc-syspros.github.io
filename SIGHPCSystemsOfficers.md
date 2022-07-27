@@ -11,7 +11,7 @@
 ### Secretary - Stephen Fralich (Boeing)
 ### Membership Chair - Jeffery Raymond (University of Pittsburgh)
 ### Member-at-large - Prentice Bisbal (Princeton Plasma Physics Laboratory)
-### Member-at-large - John Legato (National Heart Lung and Blood Institute)
+### Member-at-large - John Legato
 
 ----
 ## 2018-2020
