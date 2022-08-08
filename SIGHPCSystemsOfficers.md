@@ -3,6 +3,17 @@
 ## [Duties of Officers](https://github.com/SIGHPC-SYSPROS/OrganizationalDocs/blob/master/SIGHPCSystemsBylaws.md#article-v-duties-of-officers)
 
 ----
+## 2022-2024
+
+### Chair - John Blaas (National Center for Atmospheric Research) 
+### Vice Chair - David Clifton (Ansys)
+### Treasurer - John Legato
+### Secretary - Adam Hough (Shell)
+### Membership Chair - Stephen Fralich (Boeing)
+### Member-at-large - William Scullin (Laboratory for Laser Energetics at the University of Rochester)
+### Member-at-large - Honwai Leong (DDN)
+
+----
 ## 2020-2022
 
 ### Chair - Adam Hough (Shell)
