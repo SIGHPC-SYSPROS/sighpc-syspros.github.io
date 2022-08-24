@@ -1,6 +1,10 @@
 # Past Activities
 
 ------
+## [[HPCSYSPROS Symposium22]](http://sighpc-syspros.org/symposiums/2022/)
+Held in conjunction with [[PEARC22]](https://pearc.acm.org/pearc22/)
+### [Archived Proceedings](https://github.com/HPCSYSPROS/Symposium22)
+
 ## [[HPCSYSPROS Workshop21]](http://sighpc-syspros.org/workshops/2021/)
 Held in conjunction with [[SC21]](https://sc21.supercomputing.org/)
 ### [Archived Proceedings](https://github.com/HPCSYSPROS/Workshop21)
