@@ -1,7 +1,6 @@
 ## Elections
-ACM SIGHPC SYSPROS Virtual Chapter is beginning its biennial election cycle.
 
-[2022 Election Candidates](2022Candidates.md)
+The current officers will serve until 6/30/2024. For the 2024 - 2026 term, a new nomination committee will be formed prior to 12/31/2023. Nominations will begin in March of 2024 and voting will begin in May 2024.
 
 [Officer Duty Descriptions](https://github.com/SIGHPC-SYSPROS/OrganizationalDocs/blob/master/SIGHPCSystemsBylaws.md#article-v-duties-of-officers)
 
@@ -19,6 +18,8 @@ These elections are governed by the [chapter bylaws](https://github.com/SIGHPC-S
 [Current Officers](SIGHPCSystemsOfficers.md)
 
 ## Past election slates
+
+[2022 Elections](2022Candidates.md)
 
 [2020 Elections](2020Candidates.md)
 
