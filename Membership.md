@@ -2,8 +2,6 @@
 
 Membership dues are $5 a year. Go to [ACM SIGHPC SYSPROS](https://services.acm.org/public/qj/chapqj/chapqj_control.cfm?chap=159102) to join!
 
-You can check your membership status by going to [myACM](https://myacm.acm.org). Please ensure you register your myACM account with the same e-mail you used to join the chapter.
-
 By joining our chapter, you receive the following benefits:
 
 * Contributing to the development of the HPC Systems profession.
