@@ -13,6 +13,8 @@ facilities staff - everyone who participates in the process of physically standi
 
 ## [Membership information](Membership.md)
 
+## [Code of Conduct](conduct.md)
+
 ## [Chapter Leadership](SIGHPCSystemsOfficers.md)
 
 ## [Chapter Bylaws](https://github.com/SIGHPC-SYSPROS/OrganizationalDocs/blob/master/SIGHPCSystemsBylaws.md)
