@@ -1,8 +1,11 @@
 # SIGHPC SYSPROS Code of Conduct
 
 SIGHPC SYSPROS (SYSPROS) community is dedicated to providing a welcoming and supportive environment for all participants in activities enabled in some way by SYSPROS, and when individuals represent SYSPROS at any other function. The Code of Conduct sets forth guidelines for participant behavior that will help the community to achieve welcoming and inclusive spaces for engagement, and outlines examples of behavior that may otherwise negatively impact these shared goals. Resolution procedures are structured to encourage participants to report examples of behavior that may adversely impact inclusive participation in SYSPROS, regardless of intent, so that the community may discuss and productively reflect on them to improve future engagement. By participating in the SYSPROS community, participants accept the shared priority of abiding by the SYSPROS Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved.
-Applicability
-This Code of Conduct applies to all spaces managed, hosted, or sponsored by the SYSPROS community, including, but not limited to, meetings, email lists, and online forums such as Slack, where conversations may pertain to or otherwise represent the SYSPROS community and its activities. By participating, participants indicate their acceptance of the procedures by which SYSPROS resolves any Code of Conduct incidents.
+
+## Applicability
+This Code of Conduct applies to all spaces managed, hosted, or sponsored by the SYSPROS community, including, but not limited to, meetings, email lists, and online forums such as Slack, where conversations may pertain to or otherwise represent the SYSPROS community and its activities. 
+
+By participating, participants indicate their acceptance of the procedures by which SYSPROS resolves any Code of Conduct incidents.
 
 ## Anticipated Behavior
 In order to foster a positive and professional community environment, the community encourages the following kinds of behaviors in all platforms and events:
