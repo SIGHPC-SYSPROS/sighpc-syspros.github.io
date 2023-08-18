@@ -16,6 +16,8 @@ In order to foster a positive and professional community environment, the commun
 * Use welcoming and inclusive language
 * Advertisement of products or services is prohibited
 
+While we celebrate diversity of thought and inclusion of ideas, we also want to ensure that conversations stay on topic. Please ensure your statements are directly related to the technical subject at hand and do not address personal belief frameworks.
+
 ## Inclusivity
 Participants in SYSPROS events and activities should do their best to foster fair participation of all people, including those of underrepresented groups. Prejudicial discrimination on the basis of age, color, disability, ethnicity, family status, sex, sexual orientation, gender identity, political affiliation, labor union membership, military status, nationality, race, religion, or any other identity is an explicit violation of the SYSPROS Code of Conduct. Harassment and discrimination, including sexual harassment, bullying, and other abuses of power and authority, among other harms, limit fair access to the virtual and physical spaces where such harassment takes place.
 
