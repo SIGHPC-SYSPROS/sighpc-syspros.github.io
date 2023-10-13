@@ -1,7 +1,7 @@
 # Past Activities
 
 ------
-## [[HPCSYSPROS BoF at PEARC23]](https://pearc.acm.org/pearc23/schedule/)
+## [[HPCSYSPROS BoF at PEARC23]](https://github.com/HPCSYSPROS/BoF23)
 Held in conjunction with [[PEARC23]](https://pearc.acm.org/pearc23/)
 
 ## [[HPCSYSPROS Workshop22]](http://sighpc-syspros.org/workshops/2022/)
