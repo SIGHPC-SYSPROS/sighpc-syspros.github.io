@@ -5,7 +5,7 @@
 ----
 ## 2022-2024
 
-### Chair - John Blaas (National Center for Atmospheric Research) 
+### Chair - John Blaas (Lambda Labs) 
 ### Vice Chair - David Clifton (Ansys)
 ### Treasurer - John Legato
 ### Secretary - Adam Hough (Shell)
