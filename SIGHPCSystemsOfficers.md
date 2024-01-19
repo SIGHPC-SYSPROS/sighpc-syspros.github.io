@@ -5,7 +5,7 @@
 ----
 ## 2022-2024
 
-### Chair - John Blaas (Lambda Labs) 
+### Chair - John Blaas (Lambda) 
 ### Vice Chair - David Clifton (Ansys)
 ### Treasurer - John Legato
 ### Secretary - Adam Hough (Shell)
