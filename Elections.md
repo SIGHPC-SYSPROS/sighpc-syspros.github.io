@@ -1,6 +1,6 @@
 ## Elections
 
-The current officers will serve until 6/30/2024. For the 2024 - 2026 term, a new nomination committee will be formed prior to 12/31/2023. Nominations will begin in March of 2024 and voting will begin in May 2024.
+The current officers will serve until 6/30/2024. For the 2024 - 2026 term, the nomination committee consists of Matt Smith, Scott Hampton and Matt Bidwell. Nominations begin March 1, 2024 and voting will begin in May 2024.
 
 [Officer Duty Descriptions](https://github.com/SIGHPC-SYSPROS/OrganizationalDocs/blob/master/SIGHPCSystemsBylaws.md#article-v-duties-of-officers)
 
