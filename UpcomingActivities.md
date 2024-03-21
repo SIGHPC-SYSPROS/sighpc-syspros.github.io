@@ -1,16 +1,17 @@
 # Upcoming Activities
 
 ------
-
+<!--
 <p>
 Stay Tuned!
 </p>
-
-
-<!--
-## [[HPCSYSPROS Workshop23]](http://sighpc-syspros.org/workshops/2023/)
-Held in conjunction with [[SC23]](https://sc23.supercomputing.org/)
 -->
+
+## [[HPCSYSPROS Symposium24]](http://sighpc-syspros.org/)
+Held in conjunction with [[PEARC24]](https://pearc.acm.org/pearc24/)
+
+## [[HPCSYSPROS Workshop24]](http://sighpc-syspros.org/workshops/2024/)
+Held in conjunction with [[SC24]](https://sc24.supercomputing.org/)
 
 ------
 
