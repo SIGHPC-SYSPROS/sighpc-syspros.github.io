@@ -3,6 +3,17 @@
 ## [Duties of Officers](https://github.com/SIGHPC-SYSPROS/OrganizationalDocs/blob/master/SIGHPCSystemsBylaws.md#article-v-duties-of-officers)
 
 ----
+## 2024-2026
+
+### Chair - Betsy Hillery (Purdue University)
+### Vice Chair - John Blaas (Lambda)
+### Treasurer - John Legato
+### Secretary - Adam Hough (Shell)
+### Membership Chair - Jay Blair (ASRC Federal)
+### Member-at-large - David Clifton (Ansys)
+### Member-at-large - Mike Hartman (Stanford)
+
+----
 ## 2022-2024
 
 ### Chair - John Blaas (Lambda) 
