@@ -1,5 +1,10 @@
 # Past Activities
 ------
+## [[HPCSYSPROS Symposium24]](http://sighpc-syspros.org/symposiums/2025/)
+Held in conjunction with [[PEARC24]](https://pearc.acm.org/pearc25/)
+### [Archived Proceedings](https://github.com/HPCSYSPROS/Symposium25)
+
+------
 ## [[HPCSYSPROS Workshop24]](http://sighpc-syspros.org/workshops/2024/)
 Held in conjunction with [[SC24]](https://sc24.supercomputing.org/)
 ### [Archived Proceedings](https://github.com/HPCSYSPROS/Workshop24)
