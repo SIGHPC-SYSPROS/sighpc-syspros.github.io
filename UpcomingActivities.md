@@ -7,11 +7,11 @@ Stay Tuned!
 </p>
 -->
 
-## [[HPCSYSPROS Symposium24]](https://sighpc-syspros.org/symposiums/2024/)
-Held in conjunction with [[PEARC24]](https://pearc.acm.org/pearc24/)
+## [[HPCSYSPROS Symposium25]](https://sighpc-syspros.org/symposiums/2025/)
+Held in conjunction with [[PEARC25]](https://pearc.acm.org/pearc25/)
 
-## [[HPCSYSPROS Workshop24]](http://sighpc-syspros.org/workshops/2024/)
-Held in conjunction with [[SC24]](https://sc24.supercomputing.org/)
+## [[HPCSYSPROS Workshop25]](http://sighpc-syspros.org/workshops/2025/)
+Held in conjunction with [[SC25]](https://sc25.supercomputing.org/)
 
 ------
 
