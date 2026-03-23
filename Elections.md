@@ -1,6 +1,6 @@
 ## Elections
 
-The current officers will serve until 6/30/2024. Newly elected officers will serve from 7/1/2024 to 6/30/2026. For the 2026 - 2028 term, a new nomination committee will be formed prior to 12/31/2025. Nominations will begin in March of 2026 and voting will begin in May 2026.
+The current officers will serve until 6/30/2026. Newly elected officers will serve from 7/1/2026 to 6/30/2028. For the 2026 - 2028 term. Nominations will begin in March of 2026 and voting will begin in May 2026.
 
 [Officer Duty Descriptions](https://github.com/SIGHPC-SYSPROS/OrganizationalDocs/blob/master/SIGHPCSystemsBylaws.md#article-v-duties-of-officers)
 
