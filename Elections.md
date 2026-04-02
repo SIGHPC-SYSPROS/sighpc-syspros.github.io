@@ -4,6 +4,8 @@ The current officers will serve until 6/30/2026. Newly elected officers will ser
 
 [Officer Duty Descriptions](https://github.com/SIGHPC-SYSPROS/OrganizationalDocs/blob/master/SIGHPCSystemsBylaws.md#article-v-duties-of-officers)
 
+Please note, you must be an ACM member, a SIGHPC member, and a SIGHPC SYSPROS member if you want to serve in any of the officer roles. You must only be a member of the SIGHPC SYSPROS if you wish to be a member-at-large.
+
 Joining the ACM, SIGHPC and the SYSPROS chapter is possible at these links:  
 [https://www.acm.org/membership/join](https://www.acm.org/membership/join)  
 [https://www.sighpc.org/about/member-benefits](https://www.sighpc.org/about/member-benefits)  
