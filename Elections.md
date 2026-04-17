@@ -19,6 +19,9 @@ These elections are governed by the [chapter bylaws](https://github.com/SIGHPC-S
 
 [Current Officers](SIGHPCSystemsOfficers.md)
 
+## Active election slate
+[Candidate Statements](2026Candidates.md)
+
 ## Past election slates
 
 [2024 Elections](2024Candidates.md)
