@@ -16,4 +16,14 @@ Ajinkya
 
 ## Treasurer
 
-## Members at Large
+## Members at Large (2)
+### Abrar Hossain
+I’m Abrar Hossain, a Computer Science PhD student at the University of Toledo. I would like to nominate myself for the Member-at-Large position.
+My goal is to become a Research Software Engineer at a national lab. I enjoy working at the intersection of HPC systems and the scientists who use them. In my research, I focus on improving efficiency in large-scale systems. I have built power-aware schedulers and worked on network observability projects at NCSA and NCAR.
+I also care a lot about community work. Since my university does not have its own supercomputer, I serve as an NSF ACCESS Student Champion. I help students learn how to use national computing resources. I also lead our ACM student chapter and organize parallel computing workshops for high school students.
+I noticed that the bylaws encourage student representation in this role. I would be glad to contribute as a student member and share that perspective with the committee.
+If selected, I am ready to help where needed. I am especially interested in supporting events and outreach, and helping more people get started in HPC.
+Thank you for your time and consideration.
+
+Best regards,
+Abrar Hossain
