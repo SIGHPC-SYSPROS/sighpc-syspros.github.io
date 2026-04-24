@@ -13,7 +13,8 @@ Ajinkya
 [Linkedin](https://www.linkedin.com/in/ajenkyakadam/)
 
 ## Secretary
-
+### Sam Liston
+My name is Sam Liston.  I would like to throw my hat in the ring for secretary.  I have worked in HPC for nearly 25 years at the University of Utah's Center for High Performance Computing, primarily in the world of storage.  I have attended many of the SIGHPC-SYSPROS workshops at SC and PEARC.  I have found every one of them to be valuable.  I appreciate what SIGHPC-SYSPROS provides for the community in disseminating knowledge and ideas, and fostering collaboration and interaction among the various places doing HPC.   I would like to help it continue and expand where and how I can.
 ## Treasurer
 
 ## Members at Large (2)
