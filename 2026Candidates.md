@@ -27,3 +27,6 @@ Thank you for your time and consideration.
 
 Best regards,
 Abrar Hossain
+
+### Joseph Tippit
+My name is Joseph Tippit, and I would like to self nominate for one of the member at large positions.  My first real foray into HPC was studying for my Master’s degree at the Air Force Institute of Technology.  My thesis research consisted of developing a GPU accelerated quantum network simulation framework for our partners at the University of Maryland Baltimore.  After leaving the Air Force, I joined Oak Ridge National Laboratory as an HPC Engineer for several National Nuclear Safety Administration programs and clusters.  These experiences sparked a deep passion for enabling the computational needs of researchers, scientists, and other engineers.  I have carried that passion across my career to both Lambda and AMD in both HPC Support and HPC Architecture roles.  I care deeply about the future of this profession, and that is why I would like to serve you as a member at large.  Thank you for your consideration and time.
