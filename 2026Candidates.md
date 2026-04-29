@@ -1,6 +1,8 @@
 # Election Slate 2026
 
 ## Chair
+### David Clifton
+Hello everyone, this is David Clifton, currently a Member-at-Large on the SysPros board. It has been my pleasure to serve this organization since 2016, and I would like to continue to do so as Chair for the 2026-2028 officers' term.  My 25 years at Ansys (and now Synopsys) have given me a deep appreciation for the complexities that our cohort encounters on a daily basis. I am the Program Chair for our full-day workshop at SC26 this year, and look forward to bringing as many of us as possible together both at the workshop and beyond. I'm pleased to see new folks stepping up to participate in SIGHPC SysPros, and look forward to working with everyone to keep this chapter going in the best manner possible.
 
 ## Vice Chair
 
