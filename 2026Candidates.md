@@ -20,6 +20,8 @@ Ajinkya
 ### Sam Liston
 My name is Sam Liston.  I would like to throw my hat in the ring for secretary.  I have worked in HPC for nearly 25 years at the University of Utah's Center for High Performance Computing, primarily in the world of storage.  I have attended many of the SIGHPC-SYSPROS workshops at SC and PEARC.  I have found every one of them to be valuable.  I appreciate what SIGHPC-SYSPROS provides for the community in disseminating knowledge and ideas, and fostering collaboration and interaction among the various places doing HPC.   I would like to help it continue and expand where and how I can.
 ## Treasurer
+###  John Legato
+Hi I am John Legato I’ve been working as an HPC System Administrator  since 2003. I have experience designing, procuring and operating HPC systems for a variety of workloads in the life sciences. I have   experience in bridging the gap between the needs of researchers and design and operation of HPC systems to meet those needs. Through my role supporting users, I’ve seen the gaps in HPC training and demand for technical expertise and I welcome the opportunity to serve the chapter and the community. I’ve been a volunteer with the SCinet NetSec team since SC21.I’ve served as Member At Large in SIGHPC-SYSPROS from 2020-2022, and Treasurer since 2022, during that time I’ve been involved with the chapter’s efforts to organize workshops at SC and PEARC as well as maintaining an active presence on the SYSPROS Slack, I am looking forward to continuing to work with SIGHPC SYSPROS to foster community and educate the next generation in the field, I appreciate your consideration for this position.
 
 ## Members at Large (2)
 ### Abrar Hossain
