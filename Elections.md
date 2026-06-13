@@ -1,6 +1,6 @@
 ## Elections
 
-The current officers will serve until 6/30/2026. Newly elected officers will serve from 7/1/2026 to 6/30/2028. For the 2026 - 2028 term. Nominations will begin in March of 2026 and voting will begin in May 2026.
+The current officers will serve until 6/30/2028.
 
 [Officer Duty Descriptions](https://github.com/SIGHPC-SYSPROS/OrganizationalDocs/blob/master/SIGHPCSystemsBylaws.md#article-v-duties-of-officers)
 
@@ -19,10 +19,9 @@ These elections are governed by the [chapter bylaws](https://github.com/SIGHPC-S
 
 [Current Officers](SIGHPCSystemsOfficers.md)
 
-## Active election slate
-[Candidate Statements](2026Candidates.md)
-
 ## Past election slates
+
+[2026 Elections](2026Candidates.md)
 
 [2024 Elections](2024Candidates.md)
 
