@@ -3,6 +3,17 @@
 ## [Duties of Officers](https://github.com/SIGHPC-SYSPROS/OrganizationalDocs/blob/master/SIGHPCSystemsBylaws.md#article-v-duties-of-officers)
 
 ----
+## 2026-2028
+
+### Chair - David Clifton (Ansys)
+### Vice Chair - Andy Keen (Michigan State University)
+### Treasurer - John Legato
+### Secretary - Sam Liston (University of Utah - Center for High Performance Computing)
+### Membership Chair - Ajinkya Kadam
+### Member-at-large - Adam Hough (Shell)
+### Member-at-large - Joseph Tippit (Lambda)
+
+----
 ## 2024-2026
 
 ### Chair - Betsy Hillery (Purdue University)
